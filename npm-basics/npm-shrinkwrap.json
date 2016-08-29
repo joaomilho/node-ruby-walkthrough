@@ -1,0 +1,11 @@
+{
+  "name": "npm-basics",
+  "version": "1.0.0",
+  "dependencies": {
+    "foo": {
+      "version": "1.0.0",
+      "from": "foo@>=1.0.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/foo/-/foo-1.0.0.tgz"
+    }
+  }
+}
